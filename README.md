@@ -1,0 +1,1 @@
+# php-symfony-5-book-codes-security-05-access-denied-handler
